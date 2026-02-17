@@ -1,0 +1,30 @@
+header
+{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    height: 150px;
+}
+
+.headd
+{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    gap: 3;
+}
+
+.heads a
+{
+
+    color: white;
+    
+
+}
+
+.heads
+{
+    background-color: black;
+
+}
